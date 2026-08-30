@@ -11,10 +11,12 @@
     "typecheck": "tsc --noEmit",
     "sim": "node --experimental-strip-types tools/sim.ts",
     "check-levels": "node --experimental-strip-types tools/check_levels.ts",
-    "test": "npm run typecheck && npm run sim && npm run check-levels"
+    "test": "npm run typecheck && npm run sim && npm run check-levels",
+    "deploy": "npm run build && bash tools/deploy-pages.sh"
   },
   "devDependencies": {
     "typescript": "^5.7.2",
     "vite": "^6.0.5"
-  }
+  },
+  "homepage": "https://d-corsi.github.io/mirror/"
 }
