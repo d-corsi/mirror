@@ -1,0 +1,988 @@
+{
+  "Tile_0": {
+    "name": "Tile_0",
+    "rootTag": "Platform",
+    "animated": false,
+    "tags": [
+      "Platform"
+    ],
+    "colliders": [
+      {
+        "type": "PolygonCollider2D",
+        "object": "sprites_3",
+        "tag": "Untagged",
+        "isTrigger": false,
+        "enabled": true,
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "paths": [
+          [
+            [
+              -0.5,
+              0.5
+            ],
+            [
+              -0.5,
+              -0.5
+            ],
+            [
+              0.5,
+              -0.5
+            ],
+            [
+              0.5,
+              0.5
+            ]
+          ]
+        ]
+      }
+    ],
+    "sprites": [
+      {
+        "object": "sprites_3",
+        "enabled": true,
+        "sortingOrder": "0",
+        "texture": "Images/tileset.png",
+        "spriteFileID": 21300008
+      }
+    ],
+    "colors": [
+      "#000000FF"
+    ],
+    "mappingIndex": [
+      4
+    ]
+  },
+  "Tile_1": {
+    "name": "Tile_1",
+    "rootTag": "Platform",
+    "animated": false,
+    "tags": [
+      "Platform"
+    ],
+    "colliders": [
+      {
+        "type": "PolygonCollider2D",
+        "object": "sprites_3",
+        "tag": "Untagged",
+        "isTrigger": false,
+        "enabled": true,
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "paths": [
+          [
+            [
+              -0.5,
+              0.5
+            ],
+            [
+              -0.5,
+              -0.5
+            ],
+            [
+              0.5,
+              -0.5
+            ],
+            [
+              0.5,
+              0.5
+            ]
+          ]
+        ]
+      }
+    ],
+    "sprites": [
+      {
+        "object": "sprites_1",
+        "enabled": true,
+        "sortingOrder": "0",
+        "texture": "Images/sprites.png",
+        "spriteFileID": 21300002
+      },
+      {
+        "object": "sprite_glow",
+        "enabled": true,
+        "sortingOrder": "0",
+        "texture": "Images/sprite_glow.png",
+        "spriteFileID": 21300000
+      },
+      {
+        "object": "sprites_3",
+        "enabled": true,
+        "sortingOrder": "0",
+        "texture": "Images/tileset.png",
+        "spriteFileID": 21300008
+      }
+    ],
+    "colors": [
+      "#000080FF"
+    ],
+    "mappingIndex": [
+      0
+    ]
+  },
+  "Tile_10": {
+    "name": "Tile_10",
+    "rootTag": "BoostUp",
+    "animated": true,
+    "tags": [
+      "BoostUp"
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider2D",
+        "object": "Tile_10",
+        "tag": "BoostUp",
+        "isTrigger": true,
+        "enabled": true,
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "size": [
+          1.0,
+          1.0
+        ]
+      }
+    ],
+    "sprites": [
+      {
+        "object": "jump_arrow",
+        "enabled": true,
+        "sortingOrder": "0",
+        "texture": "Images/jump_arrow.png",
+        "spriteFileID": 21300000
+      }
+    ],
+    "colors": [
+      "#80FF00FF"
+    ],
+    "mappingIndex": [
+      12
+    ]
+  },
+  "Tile_11": {
+    "name": "Tile_11",
+    "rootTag": "Bridge",
+    "animated": false,
+    "tags": [
+      "Bridge"
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider2D",
+        "object": "sprites_1",
+        "tag": "Untagged",
+        "isTrigger": false,
+        "enabled": true,
+        "offset": [
+          0.0,
+          0.42468208
+        ],
+        "size": [
+          1.0,
+          0.15063584
+        ]
+      }
+    ],
+    "sprites": [
+      {
+        "object": "sprites_1",
+        "enabled": true,
+        "sortingOrder": "0",
+        "texture": "Images/sprites.png",
+        "spriteFileID": 21300002
+      }
+    ],
+    "colors": [
+      "#FFFFFFFF"
+    ],
+    "mappingIndex": [
+      14
+    ]
+  },
+  "Tile_12": {
+    "name": "Tile_12",
+    "rootTag": "Bridge",
+    "animated": false,
+    "tags": [
+      "Bridge"
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider2D",
+        "object": "sprites_1",
+        "tag": "Untagged",
+        "isTrigger": false,
+        "enabled": true,
+        "offset": [
+          0.0,
+          0.42037034
+        ],
+        "size": [
+          1.0,
+          0.15925932
+        ]
+      }
+    ],
+    "sprites": [
+      {
+        "object": "sprites_1",
+        "enabled": true,
+        "sortingOrder": "0",
+        "texture": "Images/sprites.png",
+        "spriteFileID": 21300002
+      }
+    ],
+    "colors": [
+      "#FFFFFFFF"
+    ],
+    "mappingIndex": [
+      15
+    ]
+  },
+  "Tile_2": {
+    "name": "Tile_2",
+    "rootTag": "Platform",
+    "animated": false,
+    "tags": [
+      "Platform"
+    ],
+    "colliders": [
+      {
+        "type": "PolygonCollider2D",
+        "object": "sprites_3",
+        "tag": "Untagged",
+        "isTrigger": false,
+        "enabled": true,
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "paths": [
+          [
+            [
+              -0.5,
+              0.5
+            ],
+            [
+              -0.5,
+              -0.5
+            ],
+            [
+              0.5,
+              -0.5
+            ],
+            [
+              0.5,
+              0.5
+            ]
+          ]
+        ]
+      }
+    ],
+    "sprites": [
+      {
+        "object": "sprites_1",
+        "enabled": true,
+        "sortingOrder": "0",
+        "texture": "Images/sprites.png",
+        "spriteFileID": 21300002
+      },
+      {
+        "object": "sprite_glow",
+        "enabled": true,
+        "sortingOrder": "0",
+        "texture": "Images/sprite_glow.png",
+        "spriteFileID": 21300000
+      },
+      {
+        "object": "sprites_3",
+        "enabled": true,
+        "sortingOrder": "0",
+        "texture": "Images/tileset.png",
+        "spriteFileID": 21300008
+      }
+    ],
+    "colors": [
+      "#808000FF"
+    ],
+    "mappingIndex": [
+      1
+    ]
+  },
+  "Tile_3": {
+    "name": "Tile_3",
+    "rootTag": "Platform",
+    "animated": false,
+    "tags": [
+      "Platform"
+    ],
+    "colliders": [
+      {
+        "type": "PolygonCollider2D",
+        "object": "sprites_0",
+        "tag": "Untagged",
+        "isTrigger": false,
+        "enabled": true,
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "paths": [
+          [
+            [
+              0.462963,
+              0.5
+            ],
+            [
+              -0.5,
+              -0.462963
+            ],
+            [
+              -0.5,
+              -0.5
+            ],
+            [
+              0.5,
+              -0.5
+            ],
+            [
+              0.5,
+              0.5
+            ]
+          ]
+        ]
+      }
+    ],
+    "sprites": [
+      {
+        "object": "sprites_0",
+        "enabled": true,
+        "sortingOrder": "0",
+        "texture": "Images/tileset.png",
+        "spriteFileID": 21300000
+      }
+    ],
+    "colors": [
+      "#004000FF"
+    ],
+    "mappingIndex": [
+      2
+    ]
+  },
+  "Tile_4": {
+    "name": "Tile_4",
+    "rootTag": "Platform",
+    "animated": false,
+    "tags": [
+      "Platform"
+    ],
+    "colliders": [
+      {
+        "type": "PolygonCollider2D",
+        "object": "sprites_4",
+        "tag": "Untagged",
+        "isTrigger": false,
+        "enabled": true,
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "paths": [
+          [
+            [
+              -0.5,
+              0.5
+            ],
+            [
+              -0.5,
+              0.462963
+            ],
+            [
+              0.462963,
+              -0.5
+            ],
+            [
+              0.5,
+              -0.5
+            ],
+            [
+              0.5,
+              0.5
+            ]
+          ]
+        ]
+      }
+    ],
+    "sprites": [
+      {
+        "object": "sprites_4",
+        "enabled": true,
+        "sortingOrder": "0",
+        "texture": "Images/tileset.png",
+        "spriteFileID": 21300012
+      }
+    ],
+    "colors": [
+      "#400000FF"
+    ],
+    "mappingIndex": [
+      3
+    ]
+  },
+  "Tile_5": {
+    "name": "Tile_5",
+    "rootTag": "Platform",
+    "animated": false,
+    "tags": [
+      "Platform"
+    ],
+    "colliders": [
+      {
+        "type": "PolygonCollider2D",
+        "object": "sprites_2",
+        "tag": "Untagged",
+        "isTrigger": false,
+        "enabled": true,
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "paths": [
+          [
+            [
+              -0.5,
+              0.5
+            ],
+            [
+              -0.5,
+              -0.5
+            ],
+            [
+              0.5,
+              -0.5
+            ],
+            [
+              0.5,
+              -0.462963
+            ],
+            [
+              -0.472222,
+              0.5
+            ]
+          ]
+        ]
+      }
+    ],
+    "sprites": [
+      {
+        "object": "sprites_2",
+        "enabled": true,
+        "sortingOrder": "0",
+        "texture": "Images/tileset.png",
+        "spriteFileID": 21300004
+      }
+    ],
+    "colors": [
+      "#000040FF"
+    ],
+    "mappingIndex": [
+      5
+    ]
+  },
+  "Tile_6": {
+    "name": "Tile_6",
+    "rootTag": "Platform",
+    "animated": false,
+    "tags": [
+      "Platform"
+    ],
+    "colliders": [
+      {
+        "type": "PolygonCollider2D",
+        "object": "sprites_5",
+        "tag": "Untagged",
+        "isTrigger": false,
+        "enabled": true,
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "paths": [
+          [
+            [
+              -0.5,
+              0.5
+            ],
+            [
+              -0.5,
+              -0.5
+            ],
+            [
+              -0.472222,
+              -0.5
+            ],
+            [
+              0.5,
+              0.472222
+            ],
+            [
+              0.5,
+              0.5
+            ]
+          ]
+        ]
+      }
+    ],
+    "sprites": [
+      {
+        "object": "sprites_5",
+        "enabled": true,
+        "sortingOrder": "0",
+        "texture": "Images/tileset.png",
+        "spriteFileID": 21300016
+      }
+    ],
+    "colors": [
+      "#404040FF"
+    ],
+    "mappingIndex": [
+      6
+    ]
+  },
+  "Tile_7": {
+    "name": "Tile_7",
+    "rootTag": "Obstacle",
+    "animated": false,
+    "tags": [
+      "Obstacle"
+    ],
+    "colliders": [
+      {
+        "type": "PolygonCollider2D",
+        "object": "sprites_3",
+        "tag": "Obstacle",
+        "isTrigger": true,
+        "enabled": true,
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "paths": [
+          [
+            [
+              0.305556,
+              -0.157407
+            ],
+            [
+              0.277778,
+              -0.185185
+            ],
+            [
+              0.064815,
+              -0.157407
+            ],
+            [
+              -0.351852,
+              -0.157407
+            ],
+            [
+              -0.5,
+              -0.453704
+            ],
+            [
+              -0.5,
+              -0.5
+            ],
+            [
+              0.5,
+              -0.5
+            ],
+            [
+              0.5,
+              -0.472222
+            ],
+            [
+              0.342593,
+              -0.157407
+            ]
+          ]
+        ]
+      }
+    ],
+    "sprites": [
+      {
+        "object": "sprites_3",
+        "enabled": true,
+        "sortingOrder": "0",
+        "texture": "Images/tileset.png",
+        "spriteFileID": 21300006
+      }
+    ],
+    "colors": [
+      "#FF8000FF"
+    ],
+    "mappingIndex": [
+      10
+    ]
+  },
+  "Tile_8": {
+    "name": "Tile_8",
+    "rootTag": "Obstacle",
+    "animated": false,
+    "tags": [
+      "Obstacle"
+    ],
+    "colliders": [
+      {
+        "type": "PolygonCollider2D",
+        "object": "sprites_3",
+        "tag": "Obstacle",
+        "isTrigger": true,
+        "enabled": true,
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "paths": [
+          [
+            [
+              0.305556,
+              -0.157407
+            ],
+            [
+              0.277778,
+              -0.185185
+            ],
+            [
+              0.064815,
+              -0.157407
+            ],
+            [
+              -0.351852,
+              -0.157407
+            ],
+            [
+              -0.5,
+              -0.453704
+            ],
+            [
+              -0.5,
+              -0.5
+            ],
+            [
+              0.5,
+              -0.5
+            ],
+            [
+              0.5,
+              -0.472222
+            ],
+            [
+              0.342593,
+              -0.157407
+            ]
+          ]
+        ]
+      }
+    ],
+    "sprites": [
+      {
+        "object": "sprites_3",
+        "enabled": true,
+        "sortingOrder": "0",
+        "texture": "Images/tileset.png",
+        "spriteFileID": 21300006
+      }
+    ],
+    "colors": [
+      "#FF00FFFF"
+    ],
+    "mappingIndex": [
+      9
+    ]
+  },
+  "Tile_9": {
+    "name": "Tile_9",
+    "rootTag": "BoostUp",
+    "animated": true,
+    "tags": [
+      "BoostUp"
+    ],
+    "colliders": [
+      {
+        "type": "BoxCollider2D",
+        "object": "Tile_9",
+        "tag": "BoostUp",
+        "isTrigger": true,
+        "enabled": true,
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "size": [
+          1.0,
+          1.0
+        ]
+      }
+    ],
+    "sprites": [
+      {
+        "object": "jump_arrow",
+        "enabled": true,
+        "sortingOrder": "0",
+        "texture": "Images/jump_arrow.png",
+        "spriteFileID": 21300000
+      }
+    ],
+    "colors": [
+      "#00FF80FF"
+    ],
+    "mappingIndex": [
+      11
+    ]
+  },
+  "Tile_Star": {
+    "name": "Tile_Star",
+    "rootTag": "Stars",
+    "animated": true,
+    "tags": [
+      "Stars"
+    ],
+    "colliders": [
+      {
+        "type": "PolygonCollider2D",
+        "object": "sprites_3",
+        "tag": "Stars",
+        "isTrigger": true,
+        "enabled": true,
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "paths": [
+          [
+            [
+              0.324074,
+              -0.425926
+            ],
+            [
+              0.305556,
+              -0.148148
+            ],
+            [
+              0.481482,
+              0.064815
+            ],
+            [
+              0.481482,
+              0.138889
+            ],
+            [
+              0.453704,
+              0.157407
+            ],
+            [
+              0.157407,
+              0.212963
+            ],
+            [
+              0.037037,
+              0.453704
+            ],
+            [
+              0.027778,
+              0.462963
+            ],
+            [
+              -0.055556,
+              0.462963
+            ],
+            [
+              -0.490741,
+              0.148148
+            ],
+            [
+              -0.490741,
+              0.055556
+            ],
+            [
+              -0.287037,
+              -0.138889
+            ],
+            [
+              -0.333333,
+              -0.425926
+            ],
+            [
+              -0.296296,
+              -0.472222
+            ],
+            [
+              -0.240741,
+              -0.472222
+            ],
+            [
+              -0.185185,
+              -0.453704
+            ],
+            [
+              0.175926,
+              -0.453704
+            ],
+            [
+              0.240741,
+              -0.472222
+            ],
+            [
+              0.287037,
+              -0.472222
+            ]
+          ]
+        ]
+      }
+    ],
+    "sprites": [
+      {
+        "object": "sprites_3",
+        "enabled": true,
+        "sortingOrder": "0",
+        "texture": "Images/tileset.png",
+        "spriteFileID": 21300010
+      }
+    ],
+    "colors": [
+      "#FFFFFFFF"
+    ],
+    "mappingIndex": [
+      13
+    ]
+  },
+  "Player 1": {
+    "name": "Player 1",
+    "rootTag": "Player",
+    "animated": true,
+    "tags": [
+      "Player"
+    ],
+    "colliders": [
+      {
+        "type": "EdgeCollider2D",
+        "object": "Player 1",
+        "tag": "Player",
+        "isTrigger": false,
+        "enabled": true,
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "paths": [
+          [
+            [
+              0.701904,
+              -0.924082
+            ],
+            [
+              -0.857688,
+              -0.923167
+            ],
+            [
+              0.319071,
+              0.827418
+            ],
+            [
+              0.525375,
+              0.828003
+            ],
+            [
+              0.701823,
+              -0.924093
+            ]
+          ]
+        ],
+        "edgeRadius": 0.0
+      }
+    ],
+    "sprites": [
+      {
+        "object": "Player 1",
+        "enabled": true,
+        "sortingOrder": "0",
+        "texture": "Sprites/stickman.png",
+        "spriteFileID": 21300000
+      }
+    ],
+    "colors": [
+      "#0000FFFF"
+    ],
+    "mappingIndex": [
+      7
+    ]
+  },
+  "Player 2": {
+    "name": "Player 2",
+    "rootTag": "Player",
+    "animated": true,
+    "tags": [
+      "Player"
+    ],
+    "colliders": [
+      {
+        "type": "EdgeCollider2D",
+        "object": "Player 2",
+        "tag": "Player",
+        "isTrigger": false,
+        "enabled": true,
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "paths": [
+          [
+            [
+              0.701904,
+              -0.924082
+            ],
+            [
+              -0.857688,
+              -0.923167
+            ],
+            [
+              0.319071,
+              0.827418
+            ],
+            [
+              0.525375,
+              0.828003
+            ],
+            [
+              0.701823,
+              -0.924093
+            ]
+          ]
+        ],
+        "edgeRadius": 0.0
+      }
+    ],
+    "sprites": [
+      {
+        "object": "Player 2",
+        "enabled": true,
+        "sortingOrder": "0",
+        "texture": "Sprites/stickman.png",
+        "spriteFileID": 21300000
+      }
+    ],
+    "colors": [
+      "#FFFF00FF"
+    ],
+    "mappingIndex": [
+      8
+    ]
+  }
+}

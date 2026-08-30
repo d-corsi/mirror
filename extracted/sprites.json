@@ -1,0 +1,814 @@
+{
+  "Images/background.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/background.png",
+    "imageSize": [
+      3840,
+      2160
+    ]
+  },
+  "Images/background_completed.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/background_completed.png",
+    "imageSize": [
+      3840,
+      2160
+    ]
+  },
+  "Images/grid.png": {
+    "pixelsPerUnit": 200.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/grid.png",
+    "imageSize": [
+      256,
+      256
+    ]
+  },
+  "Images/jump_arrow.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/jump_arrow.png",
+    "imageSize": [
+      108,
+      108
+    ]
+  },
+  "Images/led_texture.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/led_texture.png",
+    "imageSize": [
+      512,
+      512
+    ]
+  },
+  "Images/sprite_glow.png": {
+    "pixelsPerUnit": 108.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/sprite_glow.png",
+    "imageSize": [
+      108,
+      108
+    ]
+  },
+  "Images/sprites.png": {
+    "pixelsPerUnit": 108.0,
+    "spriteMode": 2,
+    "sprites": [
+      {
+        "name": "sprites_0",
+        "x": 0,
+        "y": 216,
+        "w": 108,
+        "h": 108,
+        "canvasY": 0
+      },
+      {
+        "name": "sprites_1",
+        "x": 108,
+        "y": 216,
+        "w": 108,
+        "h": 108,
+        "canvasY": 0
+      },
+      {
+        "name": "sprites_2",
+        "x": 216,
+        "y": 216,
+        "w": 108,
+        "h": 108,
+        "canvasY": 0
+      },
+      {
+        "name": "sprites_3",
+        "x": 108,
+        "y": 108,
+        "w": 108,
+        "h": 108,
+        "canvasY": 108
+      },
+      {
+        "name": "sprites_4",
+        "x": 0,
+        "y": 0,
+        "w": 108,
+        "h": 108,
+        "canvasY": 216
+      },
+      {
+        "name": "sprites_5",
+        "x": 216,
+        "y": 0,
+        "w": 108,
+        "h": 108,
+        "canvasY": 216
+      }
+    ],
+    "image": "Images/sprites.png",
+    "imageSize": [
+      324,
+      324
+    ]
+  },
+  "Images/tileset.png": {
+    "pixelsPerUnit": 108.0,
+    "spriteMode": 2,
+    "sprites": [
+      {
+        "name": "tileset_0",
+        "x": 0,
+        "y": 216,
+        "w": 108,
+        "h": 108,
+        "canvasY": 0
+      },
+      {
+        "name": "tileset_1",
+        "x": 108,
+        "y": 216,
+        "w": 108,
+        "h": 108,
+        "canvasY": 0
+      },
+      {
+        "name": "tileset_2",
+        "x": 216,
+        "y": 216,
+        "w": 108,
+        "h": 108,
+        "canvasY": 0
+      },
+      {
+        "name": "tileset_3",
+        "x": 0,
+        "y": 108,
+        "w": 108,
+        "h": 108,
+        "canvasY": 108
+      },
+      {
+        "name": "tileset_4",
+        "x": 108,
+        "y": 108,
+        "w": 108,
+        "h": 108,
+        "canvasY": 108
+      },
+      {
+        "name": "tileset_5",
+        "x": 216,
+        "y": 108,
+        "w": 108,
+        "h": 108,
+        "canvasY": 108
+      },
+      {
+        "name": "tileset_6",
+        "x": 0,
+        "y": 0,
+        "w": 108,
+        "h": 108,
+        "canvasY": 216
+      },
+      {
+        "name": "tileset_7",
+        "x": 108,
+        "y": 0,
+        "w": 108,
+        "h": 108,
+        "canvasY": 216
+      },
+      {
+        "name": "tileset_8",
+        "x": 216,
+        "y": 0,
+        "w": 108,
+        "h": 108,
+        "canvasY": 216
+      }
+    ],
+    "image": "Images/tileset.png",
+    "imageSize": [
+      324,
+      324
+    ]
+  },
+  "Images/UI/background.png": {
+    "pixelsPerUnit": 109.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/background.png",
+    "imageSize": [
+      3840,
+      2160
+    ]
+  },
+  "Images/UI/background_menu.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/background_menu.png",
+    "imageSize": [
+      3840,
+      2160
+    ]
+  },
+  "Images/UI/complete_bar.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/complete_bar.png",
+    "imageSize": [
+      3840,
+      559
+    ]
+  },
+  "Images/UI/game_over.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/game_over.png",
+    "imageSize": [
+      1303,
+      262
+    ]
+  },
+  "Images/UI/home.png": {
+    "pixelsPerUnit": 109.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/home.png",
+    "imageSize": [
+      274,
+      274
+    ]
+  },
+  "Images/UI/icon_ads.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/icon_ads.png",
+    "imageSize": [
+      512,
+      512
+    ]
+  },
+  "Images/UI/icon_custom_stickman.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/icon_custom_stickman.png",
+    "imageSize": [
+      512,
+      512
+    ]
+  },
+  "Images/UI/icon_home.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/icon_home.png",
+    "imageSize": [
+      512,
+      512
+    ]
+  },
+  "Images/UI/icon_level_selector.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/icon_level_selector.png",
+    "imageSize": [
+      512,
+      512
+    ]
+  },
+  "Images/UI/icon_music.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/icon_music.png",
+    "imageSize": [
+      512,
+      512
+    ]
+  },
+  "Images/UI/icon_retry.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/icon_retry.png",
+    "imageSize": [
+      512,
+      512
+    ]
+  },
+  "Images/UI/level_complete.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/level_complete.png",
+    "imageSize": [
+      1782,
+      226
+    ]
+  },
+  "Images/UI/level_locked.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/level_locked.png",
+    "imageSize": [
+      512,
+      512
+    ]
+  },
+  "Images/UI/level_pressed.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/level_pressed.png",
+    "imageSize": [
+      512,
+      512
+    ]
+  },
+  "Images/UI/level_selected.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/level_selected.png",
+    "imageSize": [
+      512,
+      512
+    ]
+  },
+  "Images/UI/level_selector.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/level_selector.png",
+    "imageSize": [
+      261,
+      261
+    ]
+  },
+  "Images/UI/level_star_0.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/level_star_0.png",
+    "imageSize": [
+      354,
+      121
+    ]
+  },
+  "Images/UI/level_star_1.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/level_star_1.png",
+    "imageSize": [
+      354,
+      121
+    ]
+  },
+  "Images/UI/level_star_2.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/level_star_2.png",
+    "imageSize": [
+      354,
+      121
+    ]
+  },
+  "Images/UI/level_star_3.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/level_star_3.png",
+    "imageSize": [
+      354,
+      121
+    ]
+  },
+  "Images/UI/level_text.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/level_text.png",
+    "imageSize": [
+      796,
+      252
+    ]
+  },
+  "Images/UI/level_unlocked.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/level_unlocked.png",
+    "imageSize": [
+      512,
+      512
+    ]
+  },
+  "Images/UI/menu_grid.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/menu_grid.png",
+    "imageSize": [
+      3840,
+      2160
+    ]
+  },
+  "Images/UI/mirror.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/mirror.png",
+    "imageSize": [
+      2745,
+      945
+    ]
+  },
+  "Images/UI/music.png": {
+    "pixelsPerUnit": 109.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/music.png",
+    "imageSize": [
+      274,
+      274
+    ]
+  },
+  "Images/UI/music_no.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/music_no.png",
+    "imageSize": [
+      512,
+      512
+    ]
+  },
+  "Images/UI/next_level.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/next_level.png",
+    "imageSize": [
+      1102,
+      197
+    ]
+  },
+  "Images/UI/tap_to_start.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/tap_to_start.png",
+    "imageSize": [
+      1267,
+      207
+    ]
+  },
+  "Images/UI/texture_smoke.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/texture_smoke.png",
+    "imageSize": [
+      420,
+      420
+    ]
+  },
+  "Images/UI/try_again.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/try_again.png",
+    "imageSize": [
+      1223,
+      289
+    ]
+  },
+  "Images/UI/tutorial_black.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/tutorial_black.png",
+    "imageSize": [
+      3840,
+      2160
+    ]
+  },
+  "Images/UI/tutorial_blue.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/tutorial_blue.png",
+    "imageSize": [
+      3840,
+      2160
+    ]
+  },
+  "Images/UI/win_star_0.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/win_star_0.png",
+    "imageSize": [
+      376,
+      359
+    ]
+  },
+  "Images/UI/win_star_1.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Images/UI/win_star_1.png",
+    "imageSize": [
+      376,
+      359
+    ]
+  },
+  "Sprites/circle.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Sprites/circle.png",
+    "imageSize": [
+      100,
+      100
+    ]
+  },
+  "Sprites/stickman.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Sprites/stickman.png",
+    "imageSize": [
+      182,
+      253
+    ]
+  },
+  "Icon/icon.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Icon/icon.png",
+    "imageSize": [
+      512,
+      512
+    ]
+  },
+  "Icon/icon_2.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Icon/icon_2.png",
+    "imageSize": [
+      512,
+      512
+    ]
+  },
+  "Levels/level_0.png": {
+    "pixelsPerUnit": 108.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Levels/level_0.png",
+    "imageSize": [
+      162,
+      20
+    ]
+  },
+  "Levels/level_1.png": {
+    "pixelsPerUnit": 108.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Levels/level_1.png",
+    "imageSize": [
+      98,
+      20
+    ]
+  },
+  "Levels/level_10.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Levels/level_10.png",
+    "imageSize": [
+      92,
+      20
+    ]
+  },
+  "Levels/level_11.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Levels/level_11.png",
+    "imageSize": [
+      134,
+      20
+    ]
+  },
+  "Levels/level_12.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Levels/level_12.png",
+    "imageSize": [
+      101,
+      20
+    ]
+  },
+  "Levels/level_13.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Levels/level_13.png",
+    "imageSize": [
+      103,
+      20
+    ]
+  },
+  "Levels/level_14.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Levels/level_14.png",
+    "imageSize": [
+      122,
+      20
+    ]
+  },
+  "Levels/level_15.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Levels/level_15.png",
+    "imageSize": [
+      106,
+      20
+    ]
+  },
+  "Levels/level_16.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Levels/level_16.png",
+    "imageSize": [
+      97,
+      20
+    ]
+  },
+  "Levels/level_17.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Levels/level_17.png",
+    "imageSize": [
+      96,
+      20
+    ]
+  },
+  "Levels/level_18.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Levels/level_18.png",
+    "imageSize": [
+      101,
+      20
+    ]
+  },
+  "Levels/level_19.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Levels/level_19.png",
+    "imageSize": [
+      101,
+      20
+    ]
+  },
+  "Levels/level_2.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Levels/level_2.png",
+    "imageSize": [
+      145,
+      20
+    ]
+  },
+  "Levels/level_20.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Levels/level_20.png",
+    "imageSize": [
+      105,
+      20
+    ]
+  },
+  "Levels/level_3.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Levels/level_3.png",
+    "imageSize": [
+      96,
+      20
+    ]
+  },
+  "Levels/level_4.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Levels/level_4.png",
+    "imageSize": [
+      109,
+      20
+    ]
+  },
+  "Levels/level_5.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Levels/level_5.png",
+    "imageSize": [
+      102,
+      20
+    ]
+  },
+  "Levels/level_6.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Levels/level_6.png",
+    "imageSize": [
+      102,
+      20
+    ]
+  },
+  "Levels/level_7.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Levels/level_7.png",
+    "imageSize": [
+      106,
+      20
+    ]
+  },
+  "Levels/level_8.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Levels/level_8.png",
+    "imageSize": [
+      118,
+      20
+    ]
+  },
+  "Levels/level_9.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Levels/level_9.png",
+    "imageSize": [
+      107,
+      20
+    ]
+  },
+  "Levels/level_z.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Levels/level_z.png",
+    "imageSize": [
+      80,
+      20
+    ]
+  },
+  "Levels/test-level.png": {
+    "pixelsPerUnit": 100.0,
+    "spriteMode": 1,
+    "sprites": [],
+    "image": "Levels/test-level.png",
+    "imageSize": [
+      104,
+      20
+    ]
+  }
+}

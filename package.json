@@ -1,0 +1,20 @@
+{
+  "name": "mirror-html5",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "HTML5 rebuild of the Unity game Mirror",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "sim": "node --experimental-strip-types tools/sim.ts",
+    "check-levels": "node --experimental-strip-types tools/check_levels.ts",
+    "test": "npm run typecheck && npm run sim && npm run check-levels"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2",
+    "vite": "^6.0.5"
+  }
+}

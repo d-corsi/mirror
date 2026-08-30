@@ -1,0 +1,356 @@
+{
+  "colorMappings": [
+    {
+      "index": 0,
+      "color": [
+        0,
+        0,
+        128,
+        255
+      ],
+      "hex": "#000080FF",
+      "guid": "72c811ef1b857a74eaf235dce34db01d",
+      "prefab": "TilesPrefabs/Tile_1.prefab",
+      "overridden": null
+    },
+    {
+      "index": 1,
+      "color": [
+        128,
+        128,
+        0,
+        255
+      ],
+      "hex": "#808000FF",
+      "guid": "534562f69d1c15f4291e97d5b8c448a1",
+      "prefab": "TilesPrefabs/Tile_2.prefab",
+      "overridden": null
+    },
+    {
+      "index": 2,
+      "color": [
+        0,
+        64,
+        0,
+        255
+      ],
+      "hex": "#004000FF",
+      "guid": "92f3b9d141aac3547a4a6ffa8664d538",
+      "prefab": "TilesPrefabs/Tile_3.prefab",
+      "overridden": null
+    },
+    {
+      "index": 3,
+      "color": [
+        64,
+        0,
+        0,
+        255
+      ],
+      "hex": "#400000FF",
+      "guid": "2484560ce194a594b80fd2a68aab7f4b",
+      "prefab": "TilesPrefabs/Tile_4.prefab",
+      "overridden": null
+    },
+    {
+      "index": 4,
+      "color": [
+        0,
+        0,
+        0,
+        255
+      ],
+      "hex": "#000000FF",
+      "guid": "bb4719217a1a23541b16364425793821",
+      "prefab": "TilesPrefabs/Tile_0.prefab",
+      "overridden": null
+    },
+    {
+      "index": 5,
+      "color": [
+        0,
+        0,
+        64,
+        255
+      ],
+      "hex": "#000040FF",
+      "guid": "7ea3f15d97a84b143975e6d9d10df101",
+      "prefab": "TilesPrefabs/Tile_5.prefab",
+      "overridden": null
+    },
+    {
+      "index": 6,
+      "color": [
+        64,
+        64,
+        64,
+        255
+      ],
+      "hex": "#404040FF",
+      "guid": "9ee1c2f54a6723d4eae86d79edf12771",
+      "prefab": "TilesPrefabs/Tile_6.prefab",
+      "overridden": null
+    },
+    {
+      "index": 7,
+      "color": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "hex": "#0000FFFF",
+      "guid": "5c02dd13240f37146b141114080087f7",
+      "prefab": "Prefabs/Player 1.prefab",
+      "overridden": null
+    },
+    {
+      "index": 8,
+      "color": [
+        255,
+        255,
+        0,
+        255
+      ],
+      "hex": "#FFFF00FF",
+      "guid": "7fcc1f873964286438e22e9e59d2e189",
+      "prefab": "Prefabs/Player 2.prefab",
+      "overridden": null
+    },
+    {
+      "index": 9,
+      "color": [
+        255,
+        0,
+        255,
+        255
+      ],
+      "hex": "#FF00FFFF",
+      "guid": "59b369496ca0d0f4895e27a6a2a54a88",
+      "prefab": "TilesPrefabs/Tile_8.prefab",
+      "overridden": null
+    },
+    {
+      "index": 10,
+      "color": [
+        255,
+        128,
+        0,
+        255
+      ],
+      "hex": "#FF8000FF",
+      "guid": "485bab40dda28f349a7f4f92d0bee26e",
+      "prefab": "TilesPrefabs/Tile_7.prefab",
+      "overridden": null
+    },
+    {
+      "index": 11,
+      "color": [
+        0,
+        255,
+        128,
+        255
+      ],
+      "hex": "#00FF80FF",
+      "guid": "7151d63012f018240aadb046943e5d06",
+      "prefab": "TilesPrefabs/Tile_9.prefab",
+      "overridden": [
+        "prefab"
+      ]
+    },
+    {
+      "index": 12,
+      "color": [
+        128,
+        255,
+        0,
+        255
+      ],
+      "hex": "#80FF00FF",
+      "guid": "fcc90422936f1d548a6922eafdb13170",
+      "prefab": "TilesPrefabs/Tile_10.prefab",
+      "overridden": [
+        "prefab"
+      ]
+    },
+    {
+      "index": 13,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "hex": "#FFFFFFFF",
+      "guid": "05a6a5e26b23a384697ec1757574d4f9",
+      "prefab": "TilesPrefabs/Tile_Star.prefab",
+      "overridden": null
+    },
+    {
+      "index": 14,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "hex": "#FFFFFFFF",
+      "guid": "ac4aac14814772643b9ae9a673f78d2c",
+      "prefab": "TilesPrefabs/Tile_11.prefab",
+      "overridden": [
+        "color.a",
+        "color.b",
+        "color.g",
+        "color.r",
+        "prefab"
+      ]
+    },
+    {
+      "index": 15,
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "hex": "#FFFFFFFF",
+      "guid": "828f78822ed63b54a92aed628d203bc6",
+      "prefab": "TilesPrefabs/Tile_12.prefab",
+      "overridden": [
+        "color.a",
+        "color.b",
+        "color.g",
+        "color.r",
+        "prefab"
+      ]
+    }
+  ],
+  "levels": [
+    {
+      "index": 0,
+      "guid": "aae34b4d02ec13444bf62739039f64d2",
+      "asset": "Levels/level_0.png",
+      "source": "base"
+    },
+    {
+      "index": 1,
+      "guid": "a26d23665cc07f84386e299e1c8ff516",
+      "asset": "Levels/level_1.png",
+      "source": "base"
+    },
+    {
+      "index": 2,
+      "guid": "a7fe060182471cc489ef3e32f02d9c39",
+      "asset": "Levels/level_2.png",
+      "source": "base"
+    },
+    {
+      "index": 3,
+      "guid": "951caad744926dd4abbe2402a0b7f39d",
+      "asset": "Levels/level_3.png",
+      "source": "base"
+    },
+    {
+      "index": 4,
+      "guid": "17984e5b94f3e6b48aca99700b18f01e",
+      "asset": "Levels/level_4.png",
+      "source": "base"
+    },
+    {
+      "index": 5,
+      "guid": "7564f7b241abe91419533add069eccab",
+      "asset": "Levels/level_5.png",
+      "source": "base"
+    },
+    {
+      "index": 6,
+      "guid": "a7e8d975409308d4ea0a287d1bf87288",
+      "asset": "Levels/level_6.png",
+      "source": "base"
+    },
+    {
+      "index": 7,
+      "guid": "7ce9b2a0706c3bf4d9886552fc24b7f7",
+      "asset": "Levels/level_7.png",
+      "source": "base"
+    },
+    {
+      "index": 8,
+      "guid": "b1b2d38b5b0a4194b8e38dd09276eacc",
+      "asset": "Levels/level_8.png",
+      "source": "scene"
+    },
+    {
+      "index": 9,
+      "guid": "3cbcb8e286b1a9b44b5816544663c087",
+      "asset": "Levels/level_9.png",
+      "source": "scene"
+    },
+    {
+      "index": 10,
+      "guid": "31c09345b3982564db3657f4484be830",
+      "asset": "Levels/level_10.png",
+      "source": "scene"
+    },
+    {
+      "index": 11,
+      "guid": "872c546ee0b713b46846c693fe1a6cdb",
+      "asset": "Levels/level_11.png",
+      "source": "scene"
+    },
+    {
+      "index": 12,
+      "guid": "0abb6e5d570d5b84aa5a26a96a17dd78",
+      "asset": "Levels/level_12.png",
+      "source": "scene"
+    },
+    {
+      "index": 13,
+      "guid": "2555c10572b81414891315dbdc4ea77e",
+      "asset": "Levels/level_13.png",
+      "source": "scene"
+    },
+    {
+      "index": 14,
+      "guid": "f8fc6ad0446692747a77903b0c737e9f",
+      "asset": "Levels/level_14.png",
+      "source": "scene"
+    },
+    {
+      "index": 15,
+      "guid": "4ff6f30b25cf5f44da68795fcaa08686",
+      "asset": "Levels/level_15.png",
+      "source": "scene"
+    },
+    {
+      "index": 16,
+      "guid": "f3e4bc293ba428c4f852104e798606ba",
+      "asset": "Levels/level_16.png",
+      "source": "scene"
+    },
+    {
+      "index": 17,
+      "guid": "45b9424b4b3de2649b2a428397399a08",
+      "asset": "Levels/level_17.png",
+      "source": "scene"
+    },
+    {
+      "index": 18,
+      "guid": "5ff151ce5d1400e47bce27a12e17df0e",
+      "asset": "Levels/level_18.png",
+      "source": "scene"
+    },
+    {
+      "index": 19,
+      "guid": "ae628f2cdc2febf4faeea211472fdfc5",
+      "asset": "Levels/level_19.png",
+      "source": "scene"
+    },
+    {
+      "index": 20,
+      "guid": "02c51bdc08d5e6e4a9f2cf4a9b44d3f9",
+      "asset": "Levels/level_20.png",
+      "source": "scene"
+    }
+  ]
+}

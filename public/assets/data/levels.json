@@ -1,0 +1,171 @@
+{
+ "mappings": [
+  {
+   "rgba": [
+    0,
+    0,
+    128,
+    255
+   ],
+   "tile": "Tile_1"
+  },
+  {
+   "rgba": [
+    128,
+    128,
+    0,
+    255
+   ],
+   "tile": "Tile_2"
+  },
+  {
+   "rgba": [
+    0,
+    64,
+    0,
+    255
+   ],
+   "tile": "Tile_3"
+  },
+  {
+   "rgba": [
+    64,
+    0,
+    0,
+    255
+   ],
+   "tile": "Tile_4"
+  },
+  {
+   "rgba": [
+    0,
+    0,
+    0,
+    255
+   ],
+   "tile": "Tile_0"
+  },
+  {
+   "rgba": [
+    0,
+    0,
+    64,
+    255
+   ],
+   "tile": "Tile_5"
+  },
+  {
+   "rgba": [
+    64,
+    64,
+    64,
+    255
+   ],
+   "tile": "Tile_6"
+  },
+  {
+   "rgba": [
+    0,
+    0,
+    255,
+    255
+   ],
+   "tile": "Player 1"
+  },
+  {
+   "rgba": [
+    255,
+    255,
+    0,
+    255
+   ],
+   "tile": "Player 2"
+  },
+  {
+   "rgba": [
+    255,
+    0,
+    255,
+    255
+   ],
+   "tile": "Tile_8"
+  },
+  {
+   "rgba": [
+    255,
+    128,
+    0,
+    255
+   ],
+   "tile": "Tile_7"
+  },
+  {
+   "rgba": [
+    0,
+    255,
+    128,
+    255
+   ],
+   "tile": "Tile_9"
+  },
+  {
+   "rgba": [
+    128,
+    255,
+    0,
+    255
+   ],
+   "tile": "Tile_10"
+  },
+  {
+   "rgba": [
+    255,
+    255,
+    255,
+    255
+   ],
+   "tile": "Tile_Star"
+  },
+  {
+   "rgba": [
+    255,
+    255,
+    255,
+    255
+   ],
+   "tile": "Tile_11"
+  },
+  {
+   "rgba": [
+    255,
+    255,
+    255,
+    255
+   ],
+   "tile": "Tile_12"
+  }
+ ],
+ "levels": [
+  "level_0.png",
+  "level_1.png",
+  "level_2.png",
+  "level_3.png",
+  "level_4.png",
+  "level_5.png",
+  "level_6.png",
+  "level_7.png",
+  "level_8.png",
+  "level_9.png",
+  "level_10.png",
+  "level_11.png",
+  "level_12.png",
+  "level_13.png",
+  "level_14.png",
+  "level_15.png",
+  "level_16.png",
+  "level_17.png",
+  "level_18.png",
+  "level_19.png",
+  "level_20.png"
+ ]
+}

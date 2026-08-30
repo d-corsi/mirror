@@ -1,0 +1,11 @@
+# Node
+node_modules/
+dist/
+
+# Python venv used only by the asset-extraction tools
+.venv/
+__pycache__/
+
+# macOS / external-drive sidecars
+.DS_Store
+._*
